@@ -6,3 +6,4 @@
 Este es el repositorio para la materia Datos Masivos de la MCD
 
 - [Tarea 1](T1.ipynb) - Selección de dataset
+- [Tarea 2](DM_T1.ipynb) - RDD con datos desde API pública
